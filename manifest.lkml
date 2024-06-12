@@ -1,17 +1,17 @@
 
 constant: CONNECTION_NAME {
-  value: "Connection Name"
+  value: "cortexdatafoundationreporting"
   export: override_required
 }
 
 
 constant: GCP_PROJECT_ID {
-  value: "GCP Project ID"
+  value: "gms-rd-smartanalytics"
   export: override_required
 }
 
 
 constant: SFDC_DATASET {
-  value: "Reporting Dataset Name"
+  value:"CortexDataFoundationReporting"
   export: override_required
 }
