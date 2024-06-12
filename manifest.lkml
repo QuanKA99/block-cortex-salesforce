@@ -12,6 +12,6 @@ constant: GCP_PROJECT_ID {
 
 
 constant: SFDC_DATASET {
-  value:"CortexDataFoundationReporting"
+  value:  "CortexDataFoundationReporting"
   export: override_required
 }
